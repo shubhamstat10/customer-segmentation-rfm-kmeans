@@ -54,6 +54,6 @@ The identified segments show significant differences in customer behavior and re
 Clone the repository and open the Jupyter Notebook:
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/shubhamstat10/customer-segmentation-rfm-kmeans
 cd customer-segmentation-rfm-kmeans
 jupyter notebook
